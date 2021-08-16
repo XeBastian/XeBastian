@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Cross Platform Mobile App Dev With Flutter and
 Software Project Management 
 - 💞️ I’m looking to collaborate on Software Project Management and Software Development
-- 📫 How to reach me - ernesty533k@gmail.com
 
 <!---
 XeBastian/XeBastian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
