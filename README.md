@@ -3,7 +3,7 @@
 
 ## <a href="https://github.com/Xebastian" title="GitHub Profile">Ernest Sebastian - GitHub</a>
 - 🌱 Over 2 years experience in Developing Cross Platform Mobile Applications With Flutter and Dart
-- 🙌 I'm Firebase for Backend Development
+- 🙌 I'm using Firebase for Backend Development
 - 🐍 I use Python for Data Science too.
 - 🙂 Always a Positive and Critical thinker. 
 - 🌍 Solving Real world problems makes me happy
