@@ -2,6 +2,8 @@
 - 👀 I’m interested in Mobile App Development and API Development
 - 🌱 I Have 1+ years experience in Developing Cross Platform Mobile Applications With Flutter and Dart
 - 🐍 I'm interested in Python for Data Science as well
+- 🙂 Always a Positive and Critical thinker. 
+- 🌍 Solving Real world problems makes me happy
 - 🧩 I am familiar with working with Git, Github and other Version Control Systems.
 - 💞️ I’m looking to collaborate on Software Project Management and Software Development
 - 💡 I am familiar working with the Windows, MAC and Linux Environments
