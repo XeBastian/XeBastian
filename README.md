@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/42617594/166211684-ec23a3d4-2dcd-437c-8a6a-a9d2f4b6c76a.jpg" height=200 width=200/>
 
 ## <a href="https://github.com/Xebastian" title="GitHub Profile">Ernest Sebastian - GitHub</a>
-- 🌱 I Have 2 years experience in Developing Cross Platform Mobile Applications With Flutter and Dart
-- 🙌 I am working with Firebase for Backend Development
-- 🐍 I am working with Python for Data Science too.
+- 🌱 I Have over 2 years experience in Developing Cross Platform Mobile Applications With Flutter and Dart
+- 🙌 I am using Firebase for Backend Development
+- 🐍 I am using with Python for Data Science too.
 - 🙂 Always a Positive and Critical thinker. 
 - 🌍 Solving Real world problems makes me happy
 - 🧩 I work with Git, Github and other Version Control Systems.
@@ -13,10 +13,10 @@
 - ⚡ I offer IT consultancy services at a Standard Cost
 - ⭐ I am a Trained Software Project Manager.
 - 🎒 I have on different Projects worked with :
-  * <a href="https://malawi-hilfe-schwindegg.de/" title="Home M-HS. eV.">Malawi Hilfe Schwindegg</a>
-  * <a href="https://www.chancendurchbildung.de/" title="CdB eV.">Chancen Durch Bildung</a>
-  * <a href="https://blantyrettc.wordpress.com" title="Blantyre Teachers Training College - Achieving Excellence">Blantyre Teachers Training College</a>
-  * <a href="https://sygenmw.com/" title="Sygen Malawi - Tech Simplified">Sygen Malawi</a>
+  * <a href="https://malawi-hilfe-schwindegg.de/" title="Home M-HS. eV.">Malawi Hilfe Schwindegg eV.</a> - <b>Nkhotakota</b><i>Ngala Teachers Computer Training</i>
+  * <a href="https://www.chancendurchbildung.de/" title="CdB eV.">Chancen Durch Bildung</a> - <b>Mzimba</b> <i>Digital Laboratory Implementation</i>
+  * <a href="https://blantyrettc.wordpress.com" title="Blantyre Teachers Training College - Achieving Excellence">Blantyre Teachers Training College</a> - <b>Blantyre</b>  <i>ICT Assistance</i>
+  * <a href="https://sygenmw.com/" title="Sygen Malawi - Tech Simplified">Sygen Malawi</a> - <b>Blantyre</b> <i> Developing Cross Platform Mobile Applications </i>
   
   __________________________________________
 # Other Userful Links
