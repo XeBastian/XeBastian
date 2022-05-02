@@ -3,7 +3,7 @@
 
 ## <a href="https://github.com/Xebastian" title="GitHub Profile">Ernest Sebastian - GitHub</a>
 - 🌱 Over 2 years experience in Developing Cross Platform Mobile Applications With Flutter and Dart
-- 🙌 I'm Firebase for Backend Development
+- 🙌 I'm using Firebase for Backend Development
 - 🐍 I use Python for Data Science too.
 - 🙂 Always a Positive and Critical thinker. 
 - 🌍 Solving Real world problems makes me happy
@@ -13,7 +13,7 @@
 - ⚡ I offer IT consultancy services at a Standard Cost
 - ⭐ I am a Trained Software Project Manager.
 - 🎒 I have on different Projects worked with :
-  * <a href="https://malawi-hilfe-schwindegg.de/" title="Home M-HS. eV.">Malawi Hilfe Schwindegg eV.</a> - <b>Nkhotakota</b><i>Ngala Teachers Computer Training</i>
+  * <a href="https://malawi-hilfe-schwindegg.de/" title="Home M-HS. eV.">Malawi Hilfe Schwindegg eV.</a> - <b>Nkhotakota</b> <i>Ngala Teachers Computer Training</i>
   * <a href="https://www.chancendurchbildung.de/" title="CdB eV.">Chancen Durch Bildung</a> - <b>Mzimba</b> <i>Digital Laboratory Implementation</i>
   * <a href="https://blantyrettc.wordpress.com" title="Blantyre Teachers Training College - Achieving Excellence">Blantyre Teachers Training College</a> - <b>Blantyre</b>  <i>ICT Assistance</i>
   * <a href="https://sygenmw.com/" title="Sygen Malawi - Tech Simplified">Sygen Malawi</a> - <b>Blantyre</b> <i> Developing Cross Platform Mobile Applications </i>
