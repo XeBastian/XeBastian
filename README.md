@@ -1,10 +1,10 @@
-# I’m Ernest Sebastian
+# Hello, Ernest Sebastian
 <img src="https://user-images.githubusercontent.com/42617594/166211684-ec23a3d4-2dcd-437c-8a6a-a9d2f4b6c76a.jpg" height=200 width=200/>
 
 ## <a href="https://github.com/Xebastian" title="GitHub Profile">Ernest Sebastian - GitHub</a>
-- 🌱 I Have over 2 years experience in Developing Cross Platform Mobile Applications With Flutter and Dart
-- 🙌 I am using Firebase for Backend Development
-- 🐍 I am using with Python for Data Science too.
+- 🌱 Over 2 years experience in Developing Cross Platform Mobile Applications With Flutter and Dart
+- 🙌 I'm Firebase for Backend Development
+- 🐍 I use Python for Data Science too.
 - 🙂 Always a Positive and Critical thinker. 
 - 🌍 Solving Real world problems makes me happy
 - 🧩 I work with Git, Github and other Version Control Systems.
