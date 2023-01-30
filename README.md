@@ -1,6 +1,6 @@
 # WELCOME
 ## I'm Ernest Sebastian,
-<img src="https://user-images.githubusercontent.com/42617594/166211684-ec23a3d4-2dcd-437c-8a6a-a9d2f4b6c76a.jpg" height=200 width=200/>
+<img src="https://user-images.githubusercontent.com/42617594/166211684-ec23a3d4-2dcd-437c-8a6a-a9d2f4b6c76a.jpg" height=200 width=200 center=true/>
 
 ## <a href="https://github.com/Xebastian" title="GitHub Profile">Ernest Sebastian - GitHub</a>
 - 🌱 I have over 3 years of working experience in Developing Cross Platform Mobile Applications With Flutter and Dart and Android
@@ -29,7 +29,8 @@
  
   <a href="https://gist.github.com/XeBastian/" title="Github Gists">Github Gists page</a>
   
-<!---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Xebastian&theme=dark&border_radius=11&ring=DD0000)](https://git.io/streak-stats)
+ <!---
 XeBastian/XeBastian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
