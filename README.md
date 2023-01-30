@@ -1,6 +1,8 @@
 # WELCOME
 ## I'm Ernest Sebastian,
-<img src="https://user-images.githubusercontent.com/42617594/166211684-ec23a3d4-2dcd-437c-8a6a-a9d2f4b6c76a.jpg" height=200 width=200 center=true/>
+<img src="https://user-images.githubusercontent.com/42617594/166211684-ec23a3d4-2dcd-437c-8a6a-a9d2f4b6c76a.jpg" height=200 width=200/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Xebastian)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <a href="https://github.com/Xebastian" title="GitHub Profile">Ernest Sebastian - GitHub</a>
 - 🌱 I have over 3 years of working experience in Developing Cross Platform Mobile Applications With Flutter and Dart and Android
