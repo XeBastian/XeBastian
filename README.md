@@ -6,7 +6,8 @@
  -->
 ## <a href="https://github.com/Xebastian" title="GitHub Profile">Ernest Sebastian - GitHub</a>
 - 🌱 I have over 3 years of working experience in Developing Cross Platform Mobile Applications With Flutter and Dart and Android
-- 🙌 I use Firebase and Django for Backend Development 
+- 🙌 I use Firebase, NODE JS and Django for Backend Development 
+- 🧩 I use React for frontend web development and Flutter for cross platform mobile application systems
 - 🙂 Always a Positive and Critical thinker. 
 - 🌍 Solving Real world problems makes me happy
 - 🧩 I work with Git, Github and other Version Control Systems.
