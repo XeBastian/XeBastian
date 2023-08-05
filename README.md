@@ -23,8 +23,7 @@
   * <a href="https://blantyrettc.wordpress.com" title="Blantyre Teachers Training College - Achieving Excellence">Blantyre Teachers Training College</a> - <b>Blantyre</b>  <i>ICT Assistance</i>
   
   * <a href="https://sygenmw.com/" title="Sygen Malawi - Tech Simplified">Sygen Malawi</a> - <b>Blantyre</b> <i> Developing Cross Platform Mobile Applications </i>
-  
-  * <a href="[https://stacksystemsmw.000webhostapp.com/Home.html](https://github.com/Stacklabsmw)" title="Stacklabs">Stack Labs </a>- <b>Blantyre</b> <i> ICT Consltancy Services, Cross Platform Application Development </i>
+  * <a href="https://github.com/Stacklabsmw/" title="Stack Labs">Stack Labs</a> - <b>Blantyre</b> <i> Developing Cross Platform Mobile Applications </i>
   __________________________________________ 
 ## PROJECTS
  <ul><li> <a href="https://play.google.com/store/apps/details?id=com.stacklabs.nyumba" title="Nyumba Mobile App">Nyumba265 - Find and rent houses in Malawi easily!</a></li></ul>
@@ -36,7 +35,7 @@
   
   <a href="https://ernestsebastian.nicepage.io" title="Projects Portfolio">Ernest Sebastian - Projects Portfolio</a>
   
-  <a href="https://github.com/Stacklabsmw" title="Stack Systems Website">Stack Labs </a>
+  <a href="https://github.com/Stacklabsmw" title="Stack Systems Github page">Stack Labs </a>
  
   <a href="https://gist.github.com/XeBastian/" title="Github Gists">Github Gists page</a>
   
