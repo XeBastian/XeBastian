@@ -15,24 +15,28 @@
 - 💡 I work with the Windows, MAC and Linux Environments
 - ⚡ I offer IT consultancy services at a Standard Cost 
 - 🎒 I have on different Projects worked with :
+
   * <a href="https://malawi-hilfe-schwindegg.de/" title="Home M-HS. eV.">Malawi Hilfe Schwindegg eV.</a> - <b>Nkhotakota</b><i> Ngala Teachers Computer Training</i>
+  
   * <a href="https://www.chancendurchbildung.de/" title="CdB eV.">Chancen Durch Bildung</a> - <b>Mzimba</b> <i>Digital Laboratory Implementation</i>
+  
   * <a href="https://blantyrettc.wordpress.com" title="Blantyre Teachers Training College - Achieving Excellence">Blantyre Teachers Training College</a> - <b>Blantyre</b>  <i>ICT Assistance</i>
+  
   * <a href="https://sygenmw.com/" title="Sygen Malawi - Tech Simplified">Sygen Malawi</a> - <b>Blantyre</b> <i> Developing Cross Platform Mobile Applications </i>
   
-  * <a href="https://stacksystemsmw.000webhostapp.com/Home.html" title="Stack Systems Website">Stack Systems </a>- <b>Blantyre</b> <i> ICT Consltancy Services, Cross Platform Application Development </i>
-  __________________________________________
-
+  * <a href="[https://stacksystemsmw.000webhostapp.com/Home.html](https://github.com/Stacklabsmw)" title="Stacklabs">Stack Labs </a>- <b>Blantyre</b> <i> ICT Consltancy Services, Cross Platform Application Development </i>
+  __________________________________________ 
 ## PROJECTS
- <ul><li> <a href="https://play.google.com/store/apps/details?id=com.sebaslabs.nyumba" title="Linkedin Profile">Nyumba265 - Find and rent houses in Malawi easily!</a></li></ul>
- 
+ <ul><li> <a href="https://play.google.com/store/apps/details?id=com.stacklabs.nyumba" title="Nyumba Mobile App">Nyumba265 - Find and rent houses in Malawi easily!</a></li></ul>
+  <ul><li> <a href="https://play.google.com/store/apps/details?id=com.stacklabs.nyumba_agent" title="Nyumba For Agents and Landlords App">Nyumba265: For Agents - Find and rent houses in Malawi easily!</a></li></ul>
+  
 ## OTHER USEFUL LINKS
   
   <a href="https://linkedin.com/in/sebastianernest" title="Linkedin Profile">Ernest Sebastian - Proffesional LinkedIn Profile</a>
   
   <a href="https://ernestsebastian.nicepage.io" title="Projects Portfolio">Ernest Sebastian - Projects Portfolio</a>
   
-  <a href="https://stacksystemsmw.000webhostapp.com/Home.html" title="Stack Systems Website">Stack Systems </a>
+  <a href="https://github.com/Stacklabsmw" title="Stack Systems Website">Stack Labs </a>
  
   <a href="https://gist.github.com/XeBastian/" title="Github Gists">Github Gists page</a>
   
